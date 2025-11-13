@@ -1,5 +1,5 @@
-# 👋 Hi, I'm **Chikh Oulad Laid**
-💻 **Backend Developer – ASP.NET Core | C# | SQL Server**
+# Hi, I'm **Chikh Oulad Laid**
+**Backend Developer – ASP.NET Core | C# | SQL Server**
 
 ---
 
