@@ -11,7 +11,7 @@ I enjoy writing maintainable code and learning modern backend practices.
 
 ###  Tools & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,sqlserver,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio,postman" />
 </p>
 
 ---
