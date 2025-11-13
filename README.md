@@ -4,55 +4,14 @@
 ---
 
 ### 🚀 About Me
-Backend Developer skilled in building **scalable and maintainable Web APIs** using **ASP.NET Core** and **SQL Server**.  
-Experienced in applying **Clean Architecture**, **SOLID principles**, and **modern authentication** techniques (JWT + Identity).  
-I’m passionate about writing clean, testable code and solving real-world backend challenges.
-
----
-
-### 🧠 Technical Stack
-
-**Languages:**  
-C#, C++, LINQ, ADO.NET, HTML, CSS, JavaScript  
-
-**Frameworks & Libraries:**  
-ASP.NET Core (MVC & Web API), Entity Framework Core, FluentValidation, AutoMapper  
-
-**Database:**  
-SQL Server  
-
-**Architectural Patterns:**  
-Clean / Layered Architecture, Repository Pattern, Unit of Work, DTOs, Service Layer, SOLID, CQRS (Basics)  
-
-**Tools & Technologies:**  
-Git, GitHub, Visual Studio, Postman, Swagger  
-
-**Security:**  
-Identity, JWT, Refresh Tokens  
-
----
-
-### 🧩 Featured Projects
-
-#### 🏥 [Clinic Management API](https://github.com/chikh97laid/ClinicApp)
-**Tech Stack:** ASP.NET Core Web API, EF Core, SQL Server, Identity, JWT + Refresh Tokens, FluentValidation, AutoMapper  
-- Role-based Authentication & Authorization (Admin / Doctor / Patient)  
-- Clean layered architecture (Controllers, Services, Repositories, DTOs)  
-- Unit of Work & Generic Repository pattern for scalability  
-- Swagger documentation & Postman collection for testing  
-
-#### 🛒 [E-Commerce Store API](https://github.com/chikh97laid/ECommerceAPI)
-**Tech Stack:** ASP.NET Core Web API, EF Core, AutoMapper, JWT, Identity, SQL Server  
-- Scalable layered architecture (DTOs, Repositories, Services, Controllers)  
-- SOLID principles + transaction management  
-- JWT authentication + role-based access control  
-- Swagger documentation for API exploration  
+Passionate backend developer focused on building clean, secure, and efficient Web APIs using ASP.NET Core and SQL Server.  
+I enjoy writing maintainable code and learning modern backend practices.
 
 ---
 
 ### 🛠️ Tools & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,sqlserver,visualstudio,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c++,c#,html,css,js,git,github,sqlserver,entityfaramework,ado.net,windowsform,visualstudio,postman,swagger" />
 </p>
 
 ---
