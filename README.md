@@ -4,8 +4,7 @@
 ---
 
 ###  About Me
-Passionate backend developer focused on building clean, secure, and efficient Web APIs using ASP.NET Core and SQL Server.  
-I enjoy writing maintainable code and learning modern backend practices.
+Backend Developer specialized in building scalable Web APIs with ASP.NET Core & SQL Server. I focus on solving real-world challenges like data consistency and secure payment workflows using Clean Architecture and SOLID principles. My expertise includes implementing Unit of Work and Repository patterns to ensure high-quality, maintainable code. Committed to delivering production-ready solutions that balance performance with security.
 
 ---
 
